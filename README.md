@@ -18,8 +18,8 @@ To write a program to implement the SVM For Spam Mail Detection.
 ```
 /*
 Program to implement the SVM For Spam Mail Detection..
-Developed by: Austin Aro A
-RegisterNumber:  212224040038
+Developed by: Sasinthara S
+RegisterNumber:  212223110058
 */
 
 import pandas as pd
